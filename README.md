@@ -1,2 +1,2 @@
 # web-frontend
-VenCentral web client
+VentCentral web client
